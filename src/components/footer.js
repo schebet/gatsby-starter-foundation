@@ -12,11 +12,11 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-        Neško{" "}
+        by Neško{" "}
         <span className="icon -love">
           <RiHeart2Line />
         </span>{" "}
-        by <Link to="/"></Link>
+         <Link to="/"></Link>
       </p>
     </div>
   </footer>
