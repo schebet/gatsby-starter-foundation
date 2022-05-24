@@ -9,7 +9,10 @@ const Header = ({ children }) => (
     }}
   >
     {children}
+    <link rel="alternate" type="application/rss+xml"
+    href="/feed.xml" title="RSS">
   </header>
 )
 
 export default Header
+ 
