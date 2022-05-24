@@ -1,15 +1,13 @@
 ---
 template: about-page
 slug: /about
-title: O Šebetu2
+title: O Šebetu
 ---
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
-
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
-
-![Toys](/assets/šebet-moj.jpg "Toys")
-
 Порекло становништва, село Шебет, општина Гаџин Хан — Нишавски округ. Према књизи Марије Антић „Антропогеографска проучавања насеља Заплања“ на основу испитивања тог подручје од 2005. до 2010. године.
+
+![selo Šebet](/assets/šebet-moj.jpg "Šebet")
+
+
 
 Положај насеља, главне географске одлике.
 
