@@ -8,4 +8,4 @@ cta:
   ctaText: više informacija
   ctaLink: /about
 ---
->
+ok
