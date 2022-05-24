@@ -1,1 +1,17 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://schebet.netlify.app/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Šebet</title>
+    <link>https://schebet.netlify.app</link>
+    <description>selo u Zaplanju</description>
+    <language>en-us</language> 
+    <item>
+      <title>Šebet</title>
+      <pubDate>Wed, 10 Nov 2021 15:52:00 EST</pubDate>
+      <link>https://schebet.netlify.app/page.html</link>
+      <guid>https://https://schebet.netlify.app/page.html</guid>
+      <description>stranica sa rss</description>
+    </item>
+  </channel>
+</rss>
