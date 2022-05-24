@@ -11,6 +11,10 @@
     {
       "icon": "telegram",
       "url": "https://t.me/sebet_zaplanje"
+    },
+    {
+      "icon": "twitter",
+      "url": "https://twitter.com/seloschebet"
     }
   ]
 }
