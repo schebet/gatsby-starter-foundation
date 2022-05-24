@@ -22,7 +22,7 @@
     },
     {
       "icon": "rss",
-      "url": "https://schebet.netlify.app/rss"
+      "url": "https://schebet.netlify.app/rss.xml"
     }
   ]
 }
