@@ -9,20 +9,16 @@
       "url": "https://www.instagram.com/stackrole/"
     },
     {
-      "icon": "linkedin",
-      "url": "https://in.linkedin.com/company/stackrole"
-    },
-    {
       "icon": "youtube",
       "url": "https://www.youtube.com/channel/UCc1hYgIP_DzFMMzwLRcbDVQ"
     },
     {
-      "icon": "dribbble",
-      "url": "https://dribbble.com/stackrole"
-    },
-    {
       "icon": "rss",
       "url": "https://schebet.netlify.app/rss.xml"
+    },
+    {
+      "icon": "telegram",
+      "url": "https://t.me/sebet_zaplanje"
     }
   ]
 }
