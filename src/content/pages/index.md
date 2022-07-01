@@ -1,6 +1,6 @@
 ---
 template: index-page
-slug: /
+slug: /naslovna
 title: Šebet
 tagline: selo
 featuredImage: /assets/87356170_1448962388617626_2173401151406342144_o.jpg
