@@ -89,8 +89,8 @@ collections:
               - name: "ctaLink"
                 label: "CTA Link"
                 widget: "string"
-      - label: "About"
-        name: "about"
+      - label: "o nama"
+        name: "o nama"
         file: "src/content/pages/about.md"
         fields:
           - {
