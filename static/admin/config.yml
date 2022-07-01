@@ -65,7 +65,7 @@ collections:
     name: "pages"
     files:
       - label: "Home"
-        name: "home"
+        name: "Naslovna"
         file: "src/content/pages/index.md"
         fields:
           - {
