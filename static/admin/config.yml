@@ -64,7 +64,7 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
-      - label: "Home"
+      - label: "Naslovna"
         name: "Naslovna"
         file: "src/content/pages/index.md"
         fields:
